@@ -1,0 +1,16 @@
+.form-container{
+    width: 400px;
+    margin: auto;
+}
+
+.ui.primary.button{
+    background-color: #d2191f;
+}
+
+a:hover {
+    background-color: #d2191f;
+  }
+
+p{
+    font-size: large;
+}
