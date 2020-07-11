@@ -1,6 +1,16 @@
-# Foobar
+# StageWood Login and Register System
 
-Foobar is a Python library for dealing with word pluralization.
+Stagewood Project is a full scale login and register system built as a test for Stagewood Consortium Inc. The system was build with the following Technologies
+
+*Node
+*React
+*Apollo
+*Javascript
+*GraphQl
+*HTML
+*CSS
+*Semantic UI
+
 
 ## Installation
 
