@@ -14,7 +14,7 @@ Stagewood Project is a full scale login and register system built as a test for 
 
 ## Installation and Dependencies
 
-To run the project clone the repo and make sure you have the following Dependencies installed. This project was built in VS Code using Bash as my CLI.
+To run the project clone the repo and make sure you have the following Dependencies installed. This project was built in VS Code using Bash as my CLI. Once you have all the dependencies installed. Open up on terminal and cd in the directory /stageWood Project and run the command "npm run serve" this will activate the graphql server running on http://localhost:5000 once the server is running open up a second terminal and cd into /stagewoodProject/client run the command "npm start" to activate the server. The client server will be running on "http://localhost:3000 
 
 # Node
 # npm
